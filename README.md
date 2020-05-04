@@ -9,7 +9,7 @@ You can see the running application [here](https://unique-colours.netlify.app/).
 
 # Key Information
 
-### Canvas
+### HTML Canvas
 
 The Canvas's dimensions are 256x128. Each pixel's colour is unique.
 
